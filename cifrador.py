@@ -70,7 +70,7 @@ def main(argv):
 			print '   || emilio.guzman@uao.edu.co                       camilo_ale.quintero@uao.edu.co ||'
 			print '   ||                                                                               ||'
 			print '   ||                                                                               ||'
-			print '   ||                    Presentado al Ing. SILER AMADOR DONONADO.                  ||'
+			print '   ||                    Presentado al Ing. SILER AMADOR DONADO.                    ||'
 			print '   ||                        UNIVERSIDAD AUTONOMA DE OCCIDENTE                      ||'
                         print '   ||                                      2019                                     ||'
 			print '    \= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =/'
