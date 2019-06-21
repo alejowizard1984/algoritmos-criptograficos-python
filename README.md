@@ -7,4 +7,5 @@ alfabeto.py tiene una lsita de caracteres
 feistel.py es el algoritmo de cifrado y descifrado de feistel
 vigenere.py es el algoritmo de cifrado y descifrado de vigenere
 len.txt guarda el largo original del mensaje a cifrar
+ppfinal.pptx diapositivas con explicacion
 
